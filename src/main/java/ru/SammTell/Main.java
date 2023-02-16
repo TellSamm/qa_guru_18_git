@@ -11,10 +11,7 @@ public class Main {
         }else{
             System.out.println("This is not warcraft");
         }
-
-
-    public static void main(String[] args)
-    {
+        // в любом случае выведем
         System.out.println("Hello Samm");
         System.out.println("Hello World Of Warcraft!!!!");
     }
