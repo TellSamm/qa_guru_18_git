@@ -5,16 +5,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int n = 1;
-        if(n == 1) {
-        System.out.println("Hello World Of Warcraft !");
+        int n = 2;
+        if(n == 2) {
+            System.out.println("Hello World Of Warcraft2!");
         }else{
-            System.out.println("This is not warcraft");
+            System.out.println("This is not warcraft2");
         }
-
-
-    public static void main(String[] args)
-    {
+        // в любом случае выведем
         System.out.println("Hello Samm");
         System.out.println("Hello World Of Warcraft!!!!");
     }
