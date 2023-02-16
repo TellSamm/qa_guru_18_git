@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         int n = 3;
+        int m = 4;
         if(n == 3) {
         System.out.println("Hello World Of Warcraft3 !");
         }else{
