@@ -10,6 +10,7 @@ public class Main {
             System.out.println("Hello World Of Warcraft2!");
         }else{
             System.out.println("This is not warcraft2");
+            System.out.println("This is not warcraft3");
         }
         // в любом случае выведем
         System.out.println("Hello Samm");
