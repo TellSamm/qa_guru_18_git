@@ -5,10 +5,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int n = 3;
-        int m = 4;
+        int n = 2;
+        int m = 7;
         if(n == 3) {
-        System.out.println("Hello World Of Warcraft3 !");
+        System.out.println("Hello World Of Warcraft4 !");
         }else{
             System.out.println("This is not warcraft3");
         }
