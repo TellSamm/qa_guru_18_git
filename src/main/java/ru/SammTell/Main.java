@@ -5,8 +5,8 @@ public class Main {
 
     public static void main(String... args) {
 
-        int w = 5;
-        if(w == 5) {
+        int t = 5;
+        if(t == 5) {
             System.out.println("Hello World Of Warcraft2!");
 
         }else{
