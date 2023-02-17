@@ -4,9 +4,9 @@ public class Main {
 
 
     public static void main(String... args) {
-
-        int t = 5;
-        if(t == 5) {
+    
+        int m = 2;
+        if(m == 2) {
             System.out.println("Hello World Of Warcraft2!");
 
         }else{
