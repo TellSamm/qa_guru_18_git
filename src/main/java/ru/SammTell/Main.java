@@ -3,7 +3,7 @@ package ru.SammTell;
 public class Main {
 
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
 
         int n = 2;
         int m = 7;
